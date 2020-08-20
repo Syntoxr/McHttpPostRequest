@@ -1,0 +1,10 @@
+name: HttpPostRequest
+main: io.github.firefluxion.HttpPost.HttpPostRequest
+version: 1.0
+author: Firefluxion
+commands:
+  sendpostrequest:
+    description: Sends a payload to a given url.
+    usage: /sendpostrequest <URL> <JsonPayload>,
+    permission: MCPluginTest.basic
+    permission-message: You don't have the right to send a post request!  

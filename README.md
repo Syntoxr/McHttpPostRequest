@@ -7,7 +7,7 @@ You can use it to send POST requests to an url so you're able control external s
 
 1. Download the .jar file
 2. Drop the .jar file into your minecraft plugins folder
-3. Start your game/server
+3. Start your game or server
 
 ## usage
 

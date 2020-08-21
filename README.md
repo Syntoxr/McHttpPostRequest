@@ -1,7 +1,7 @@
 # HttpPostRequest
 This is a Minecraft plugin written in java for bukkit.
 
-You can use it to send POST requests to an url so you're able cntrol external services.
+You can use it to send POST requests to an url so you're able control external services.
 
 ## installation
 

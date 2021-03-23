@@ -1,7 +1,7 @@
 name: HttpPostRequest
-main: io.github.firefluxion.HttpPost.HttpPostRequest
+main: io.github.syntoxr.HttpPost.HttpPostRequest
 version: 1.0
-author: Firefluxion
+author: Syntoxr
 commands:
   sendpostrequest:
     description: Sends a payload to a given url.

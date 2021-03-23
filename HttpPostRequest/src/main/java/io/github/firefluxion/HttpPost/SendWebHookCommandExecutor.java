@@ -1,4 +1,4 @@
-package io.github.firefluxion.HttpPost;
+package io.github.syntoxr.HttpPost;
 
 import java.io.OutputStream;
 import java.net.HttpURLConnection;

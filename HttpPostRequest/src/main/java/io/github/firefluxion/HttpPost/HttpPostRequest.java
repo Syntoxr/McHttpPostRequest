@@ -1,4 +1,4 @@
-package io.github.firefluxion.HttpPost;
+package io.github.syntoxr.HttpPost;
 
 import org.bukkit.plugin.java.JavaPlugin;
 

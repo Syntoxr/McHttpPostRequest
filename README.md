@@ -23,5 +23,5 @@ To use this plugin and send a POST request just type in the following command:
 Info: If you dont know how to write an easy json body you can visit [this](https://www.json.org/json-de.html) page.|
 ----|
 
-Have fun!
+Have fun! 
 
